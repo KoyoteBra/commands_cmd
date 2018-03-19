@@ -1,0 +1,27 @@
+# Use git
+
+// Init git
+
+$ git init
+
+// Add archives git
+
+$ git add 
+
+// Config user email and name
+
+$ git config --global.email "here email"
+
+$ git config --global.user "name"
+
+// Status 
+
+$git status
+
+// Add local remote server
+
+$ git remote add origin ---link---
+
+// Send project
+
+$ git push -u origin master
